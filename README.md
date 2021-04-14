@@ -16,4 +16,6 @@ test - 一些杂七杂八的题
 
 [KnowledgePoint.md](KnowledgePoint.md) - 随手记录的一些用到的知识点
 
+[经验贴](https://zhuanlan.zhihu.com/p/362169209)
+
 华农数信的上机建议是用[Code::Blocks](https://www.codeblocks.org/)，编译器是GCC/G++6.4.0。我是下载带mingw编译器的Code::Blocks作为辅助，而使用VSCode配置mingw运行环境，这样的好处是不用创建项目，直接新建C文件就可以写代码。这样的好处是更高效一些。考研不易，祝各位好运~
